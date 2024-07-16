@@ -54,8 +54,6 @@
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="44" alt="intellij logo"  />
   <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="44" alt="opera logo"  />
-  <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="44" alt="photoshop logo"  />
 </div>
 
