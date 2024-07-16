@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  <img height="" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hola!! 👋</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">Hi! I'm Priyarasu P, a backend developer passionate about Java and cloud technologies. I specialize in Spring Boot and Docker for scalable applications, leveraging cloud platforms like AWS , Azure.</p>
+<p align="center">Hi! I'm Priyarasu P, a backend developer passionate about Java and cloud technologies. I specialize in Spring Boot and Docker for scalable applications, leveraging cloud platforms like AWS , Azure .</p>
 
 ###
 
@@ -66,7 +66,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyarasu-76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=priyarasu-76&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
